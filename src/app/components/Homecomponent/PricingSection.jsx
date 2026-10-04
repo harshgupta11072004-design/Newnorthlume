@@ -512,9 +512,9 @@ export default function PricingSection() {
                     })}
                   </div>
 
-                  <button className="mt-6 w-full rounded-full bg-gradient-to-r from-[#f5b900] via-[#ffe75c] to-[#ffd21a] py-3 text-sm font-medium text-black transition-transform duration-300 hover:scale-[1.02]">
-                    Get Started
-                  </button>
+                  <a href="https://rzp.io/rzp/1jWe8mub" target="_blank" className="text-center  block mt-6 w-full rounded-full bg-gradient-to-r from-[#f5b900] via-[#ffe75c] to-[#ffd21a] py-3 text-sm font-medium text-black transition-transform duration-300 hover:scale-[1.02]">
+                    Get Started sdfasd
+                  </a>
                 </div>
               </div>
             </div>
@@ -557,9 +557,9 @@ export default function PricingSection() {
                 })}
               </div>
 
-              <button className="mt-7 w-full rounded-full bg-gradient-to-r from-[#f5b900] via-[#ffe75c] to-[#ffd21a] py-3 text-sm font-medium text-black transition-transform duration-300 hover:scale-[1.02]">
+              <a href="https://rzp.io/rzp/KaAGjjGg" target="_blank" className="block text-center mt-7 w-full rounded-full bg-gradient-to-r from-[#f5b900] via-[#ffe75c] to-[#ffd21a] py-3 text-sm font-medium text-black transition-transform duration-300 hover:scale-[1.02]">
                 Get Started
-              </button>
+              </a>
             </div>
           </div>
 
@@ -610,9 +610,9 @@ export default function PricingSection() {
                     })}
                   </div>
 
-                  <button className="mt-6 w-full rounded-full bg-gradient-to-r from-[#f5b900] via-[#ffe75c] to-[#ffd21a] py-3 text-sm font-medium text-black transition-transform duration-300 hover:scale-[1.02]">
+                  <a href="https://rzp.io/rzp/7gxIbZ0v" target="_blank" className="block text-center mt-6 w-full rounded-full bg-gradient-to-r from-[#f5b900] via-[#ffe75c] to-[#ffd21a] py-3 text-sm font-medium text-black transition-transform duration-300 hover:scale-[1.02]">
                     Get Started
-                  </button>
+                  </a>
                 </div>
               </div>
             </div>
