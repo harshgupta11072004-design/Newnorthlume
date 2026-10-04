@@ -88,7 +88,7 @@ export default function Page() {
 
                 <div className="flex items-end gap-1">
                   <span className="text-4xl font-medium tracking-tight text-white">
-                    $20
+                    ₹ 1999
                   </span>
                 </div>
 
@@ -171,7 +171,7 @@ export default function Page() {
 
                   <div className="flex items-end gap-1">
                     <span className="text-4xl font-medium text-white">
-                      $50
+                      ₹ 4999
                     </span>
                   </div>
 
@@ -242,7 +242,7 @@ export default function Page() {
 
                 <div className="flex items-end gap-1">
                   <span className="text-4xl font-medium tracking-tight text-white">
-                    $60
+                    ₹ 5999
                   </span>
                 </div>
 
@@ -346,7 +346,7 @@ export default function Page() {
                   <div className="flex items-end gap-1">
 
                     <span className="text-4xl font-medium text-white">
-                      $200
+                      ₹ 19999
                     </span>
 
                   </div>

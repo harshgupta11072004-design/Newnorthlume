@@ -486,7 +486,7 @@ export default function PricingSection() {
 
             <div className="px-6 pb-6">
               <div className="flex items-end gap-1">
-                <span className="text-4xl font-medium tracking-tight text-white">$20</span>
+                <span className="text-4xl font-medium tracking-tight text-white">₹ 1999</span>
               </div>
               <p className="mt-2 text-sm text-white/45">1 Month • Full Access</p>
             </div>
@@ -513,7 +513,7 @@ export default function PricingSection() {
                   </div>
 
                   <a href="https://rzp.io/rzp/1jWe8mub" target="_blank" className="text-center  block mt-6 w-full rounded-full bg-gradient-to-r from-[#f5b900] via-[#ffe75c] to-[#ffd21a] py-3 text-sm font-medium text-black transition-transform duration-300 hover:scale-[1.02]">
-                    Get Started sdfasd
+                    Get Started
                   </a>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function PricingSection() {
 
               <div className="mt-5">
                 <div className="flex items-end gap-1">
-                  <span className="text-4xl font-medium text-white">$50</span>
+                  <span className="text-4xl font-medium text-white">₹ 4999</span>
                 </div>
                 <p className="mt-2 text-sm text-white/45">3 Months • Full Access</p>
               </div>
@@ -584,7 +584,7 @@ export default function PricingSection() {
 
             <div className="px-6 pb-6">
               <div className="flex items-end gap-1">
-                <span className="text-4xl font-medium tracking-tight text-white">$60</span>
+                <span className="text-4xl font-medium tracking-tight text-white">₹ 5999</span>
               </div>
               <p className="mt-2 text-sm text-white/45">6 Months • Full Access</p>
             </div>
