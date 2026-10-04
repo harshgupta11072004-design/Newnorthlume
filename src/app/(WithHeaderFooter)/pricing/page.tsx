@@ -14,7 +14,7 @@ import {
 const features = [
   {
     icon: LineChart,
-    title: "Live Trading Sessions",
+    title: "Live Learning Sessions",
   },
   {
     icon: CheckCircle2,
@@ -26,14 +26,14 @@ const features = [
   },
   {
     icon: Users,
-    title: "Trading Community Access",
+    title: "Learning Community Access",
   },
 ];
 
 const oneOnOneFeatures = [
   {
     icon: LineChart,
-    title: "Personalized Trading Guidance",
+    title: "Personalized Learning Guidance",
   },
   {
     icon: CheckCircle2,
@@ -62,7 +62,7 @@ export default function Page() {
             </h3>
 
             <p className="mt-3 text-sm text-white/50">
-              Select the plan that suits your trading journey.
+              Select the plan that suits your Learning journey.
             </p>
           </div>
 
@@ -333,7 +333,7 @@ export default function Page() {
                     </div>
 
                     <p className="mt-1 text-sm text-white/45">
-                      Get personalized guidance based on your trading goals.
+                      Get personalized guidance based on your Learning goals.
                     </p>
                   </div>
 

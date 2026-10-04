@@ -427,7 +427,7 @@ import { CommenHeading, CommenSubheading } from "../commmencomponent/CommenHeadi
 const features = [
   {
     icon: LineChart,
-    title: "Live Trading Sessions",
+    title: "Live Learning Sessions",
   },
   {
     icon: CheckCircle2,
@@ -439,7 +439,7 @@ const features = [
   },
   {
     icon: Users,
-    title: "Trading Community Access",
+    title: "Learning Community Access",
   },
 ];
 
